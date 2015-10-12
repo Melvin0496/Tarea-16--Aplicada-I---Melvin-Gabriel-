@@ -133,32 +133,33 @@
             // ejercicio121ToolStripMenuItem
             // 
             this.ejercicio121ToolStripMenuItem.Name = "ejercicio121ToolStripMenuItem";
-            this.ejercicio121ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.ejercicio121ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.ejercicio121ToolStripMenuItem.Text = "Ejercicio 12.1";
+            this.ejercicio121ToolStripMenuItem.Click += new System.EventHandler(this.ejercicio121ToolStripMenuItem_Click);
             // 
             // ejercicio112ToolStripMenuItem1
             // 
             this.ejercicio112ToolStripMenuItem1.Name = "ejercicio112ToolStripMenuItem1";
-            this.ejercicio112ToolStripMenuItem1.Size = new System.Drawing.Size(142, 22);
+            this.ejercicio112ToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
             this.ejercicio112ToolStripMenuItem1.Text = "Ejercicio 12.2";
             this.ejercicio112ToolStripMenuItem1.Click += new System.EventHandler(this.ejercicio112ToolStripMenuItem1_Click);
             // 
             // ejercicio123ToolStripMenuItem
             // 
             this.ejercicio123ToolStripMenuItem.Name = "ejercicio123ToolStripMenuItem";
-            this.ejercicio123ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.ejercicio123ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.ejercicio123ToolStripMenuItem.Text = "Ejercicio 12.3";
             // 
             // ejercicio124ToolStripMenuItem
             // 
             this.ejercicio124ToolStripMenuItem.Name = "ejercicio124ToolStripMenuItem";
-            this.ejercicio124ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.ejercicio124ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.ejercicio124ToolStripMenuItem.Text = "Ejercicio 12.4";
             // 
             // ejercicio125ToolStripMenuItem
             // 
             this.ejercicio125ToolStripMenuItem.Name = "ejercicio125ToolStripMenuItem";
-            this.ejercicio125ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.ejercicio125ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.ejercicio125ToolStripMenuItem.Text = "Ejercicio 12.5";
             // 
             // herramientasToolStripMenuItem

@@ -51,5 +51,11 @@ namespace Ejercicios11Y12
             Ejercicio11_5 e11_5 = new Ejercicio11_5();
             e11_5.Show();
         }
+
+        private void ejercicio121ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Ejercicio12_1 e12_1 = new Ejercicio12_1();
+            e12_1.Show();
+        }
     }
 }

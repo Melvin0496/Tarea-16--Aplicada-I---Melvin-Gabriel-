@@ -76,6 +76,12 @@
     <Compile Include="Ejercicio11_5.Designer.cs">
       <DependentUpon>Ejercicio11_5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ejercicio12_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio12_1.Designer.cs">
+      <DependentUpon>Ejercicio12_1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ejercicios11Y12.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Ejercicio11_5.resx">
       <DependentUpon>Ejercicio11_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio12_1.resx">
+      <DependentUpon>Ejercicio12_1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ejercicios11Y12.resx">
       <DependentUpon>Ejercicios11Y12.cs</DependentUpon>
